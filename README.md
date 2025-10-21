@@ -29,17 +29,6 @@ Enter your second number: 3
 Choose an operation (+, -, *, /, **): **
 The result is: 216
 
-
-
-## Project Structure
-
-the-meh-thematical-calculator/
-├── calculator.py        # Main program file with handwritten arithmetic functions
-├── tests/               # Unit tests for verifying correct calculations
-└── README.md            # Project documentation (this file)
-
-
-
 ## Installation
 1. Clone the repository:
    git clone https://github.com/WTCSC/the-meh-thematical-calculator-Jacob-Havlin.git
