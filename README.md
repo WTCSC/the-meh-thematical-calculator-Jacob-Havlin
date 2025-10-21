@@ -24,10 +24,10 @@ The Meh-thematical Calculator is a Python-based command-line application that pe
 ### Example Interaction
 
 
-Enter your first number: 6
-Enter your second number: 3
-Choose an operation (+, -, *, /, **): **
-The result is: 216
+* Enter your first number: 6
+* Enter your second number: 3
+* Choose an operation (+, -, *, /, **): **
+* The result is: 216
 
 ## Installation
 1. Clone the repository:
